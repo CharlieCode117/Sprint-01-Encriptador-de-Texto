@@ -13,3 +13,4 @@ Con ello en mente se trabajó la página logrando el objetivo tanto de trabajar 
 
 Algunas Pruebas de su funcionamiento: 
 ![image](https://user-images.githubusercontent.com/111110959/232635852-44f7032b-84c0-4bbf-932d-f9dfb17f6a23.png)
+![image](https://user-images.githubusercontent.com/111110959/232636313-7c4baae4-fdf0-417e-8f82-6e4f2d67656a.png)
